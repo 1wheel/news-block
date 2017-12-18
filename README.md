@@ -10,6 +10,6 @@ filter out sticky banners, pivots to video and newsletter nags
 3. Add http://1wheel.github.io/news-block/filter.txt as a custom URL 
 
 
-## Add your own!
+## Add your own
 
 Right click and select `Block element`
