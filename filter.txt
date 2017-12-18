@@ -1,0 +1,10 @@
+!https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#introduction
+
+
+!Rules for Kinja
+
+###.initialized.instream-permalink.instream-native-video--desktop.instream-native-video
+
+###.js_subscribe-region-sidebar.js_dismissable.js_newsletter-btn--subscribe > .open.newsletter-btn.newsletter-subscribe-wrapper
+
+###sharingfooter
