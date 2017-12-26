@@ -40,6 +40,13 @@ www.washingtonpost.com###top-sharebar_753
 
 www.washingtonpost.com###top-sharebar_1978
 
+www.washingtonpost.com###top-sharebar_6005
+
+www.washingtonpost.com##.horizontal-photo.inline-photo-normal.inline-photo.inline-content:nth-of-type(1)
+
+www.washingtonpost.com###right-rail
+
+www.washingtonpost.com##.nl-top-hairline.border-bottom-
 
 
 
@@ -151,6 +158,31 @@ www.slate.com##.tablet-ad:nth-of-type(4) > .adv
 
 www.slate.com###article_rollup
 
+
+
+!vanityfair
+
+www.vanityfair.com##.hive-riser.expanded.component-riser
+
+www.vanityfair.com##.sub-brand-nav__wrapper
+
+
+
+!vox
+
+www.vox.com##.tab-bar-fixed.c-tab-bar
+
+
+
+!digitalocean
+
+www.digitalocean.com###scrollUp
+
+
+
+!propublica
+
+propublica.org##pp-special > header
 
 
 
