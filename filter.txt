@@ -48,6 +48,12 @@ www.washingtonpost.com###right-rail
 
 www.washingtonpost.com##.nl-top-hairline.border-bottom-
 
+www.washingtonpost.com###top-sharebar_9217
+
+www.washingtonpost.com###top-sharebar_8301
+
+www.washingtonpost.com##.color-top.vertical-sticky-top-sharebar
+
 
 
 
@@ -183,6 +189,34 @@ www.digitalocean.com###scrollUp
 !propublica
 
 propublica.org##pp-special > header
+
+
+
+!huffingtonpost
+
+www.huffingtonpost.co.uk##.desktop-only.stickyNav
+
+www.huffingtonpost.co.uk##.desktop-only.newsletter-toaster
+
+www.huffingtonpost.co.uk##.col--body-right.col
+
+
+
+github.com##.my-2.p-3.rounded-1.border
+
+
+
+www.axios.com##.site-header__wrapper
+
+
+
+www.ft.com##.o-header--sticky-scroll-down.o-header--sticky-active.o--if-js.o-header--sticky.o-header--simple.o-header > .o-header__top.o-header__row
+
+www.ft.com##.o-share-wrapper
+
+
+
+www.poynter.org###block-modalnewslettersignup
 
 
 
