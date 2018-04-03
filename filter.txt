@@ -305,7 +305,7 @@ medium.com##.is-maximized.metabar--affixed
 
 ##.js-stickyFooter
 
-#.js-metabar.u-clearfix.metabar
+##.js-metabar.u-clearfix.metabar
 
 
 
