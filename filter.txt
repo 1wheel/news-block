@@ -287,15 +287,7 @@ www.newyorker.com##.Layout__sidebar___2GcEE
 
 
 
-mondaynote.com##.js-stickyFooter.u-xs-paddingRight10.u-xs-paddingLeft10.u-zIndexMetabar.u-paddingBottom10.u-paddingTop10.u-borderBox.u-boxShadowTop.u-backgroundWhite.u-sizeFullWidth.u-bottom0.u-fixed
-
-mondaynote.com##.u-xs-sizeFullViewportWidth.u-backgroundTransparentWhiteDarkest.u-fixed.js-metabar.u-clearfix.metabar
-
-mondaynote.com##.u-transition--fadeIn300.js-postShareWidget.u-marginLeftNegative12.u-sm-hide.u-fixed.u-top0.u-foreground
-
 www.nydailynews.com###reg-overlay
-
-
 
 
 
@@ -310,6 +302,10 @@ medium.com##.is-maximized.metabar--affixed
 ##.js-postActionsBarContent
 
 ##.is-maximized.metabar--affixed
+
+##.js-stickyFooter
+
+#.js-metabar.u-clearfix.metabar
 
 
 
